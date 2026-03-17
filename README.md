@@ -1,5 +1,5 @@
 # Metal mixtures modeling identifies birth weight-associated gene networks in the placentas of children born extremely preterm
-Code and data for manuscript: Metals mixtures modeling identifies birth weight-associated gene networks in the placentas of children born extremely preterm, which was published in Chemosphere in 2024 (PMID: 36493891).
+Code and data for manuscript: Metals mixtures modeling identifies birth weight-associated gene networks in the placentas of children born extremely preterm, which was published in Chemosphere in 2022 (PMID: 36493891).
 
 > Eaves LA, Bulka CM, Rager JE, Gardner AJ, Galusha AL, Parsons PJ, O'Shea TM, Fry RC. Metal mixtures modeling identifies birth weight-associated gene networks in the placentas of children born extremely preterm. Chemosphere. 2023 Feb;313:137469. doi: 10.1016/j.chemosphere.2022.137469. Epub 2022 Dec 6. PMID: 36493891; PMCID: PMC10476282.
 
